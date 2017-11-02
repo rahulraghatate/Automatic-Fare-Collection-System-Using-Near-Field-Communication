@@ -9,5 +9,5 @@ In standard railway, the purpose of the smartcard is to automatically print a ti
 ## Solution 
 We propose a more advanced automatic ticketing system using **Near Field Communication** keeping in mind the specific needs and requirements of Metrorail systems in India and also the convenience of the passengers. 
 
-##Publication
+## Paper Publication
 The prototype of this system is implemented and described in this **[paper](http://www.ijerd.com/paper/vol10-issue4/Version_2/C1042024.pdf)**.
